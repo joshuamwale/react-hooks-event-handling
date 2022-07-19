@@ -22,5 +22,4 @@ function ChangeItUp() {
     </div>
   );
 }
-
 export default ChangeItUp;
